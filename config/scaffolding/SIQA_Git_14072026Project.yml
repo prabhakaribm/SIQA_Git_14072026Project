@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/prabhakaribm
   gitUsername: prabhakaribm
   gitBranch: main
+- name: SIQA_OriginTest_OnPremAssets
+  gitServerName: prabhakaribm
+  gitUrl: https://github.com/vijetadixit
+  gitUsername: prabhakaribm
+  gitBranch: Test
